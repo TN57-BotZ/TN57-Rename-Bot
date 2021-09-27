@@ -37,7 +37,7 @@ class Translation(object):
 <b>My Name :</b> <a href='https://t.me/TN57_Renamer_Bot'>TN57 Renamer Bot</a>\n
 <b>My Update Channel :</b> <a href='https://t.me/TN57_BotZ'>TN57_BotZ</a>\n
 <b>Version :</b> <a href='https://t.me/TN57_Renamer_Bot'>0.9.2 beta</a>\n
-<b>Leech Group :</b> <a href='https://t.me/TN57_Leech'>Click Here</a>\n
+<b>Leech & Mirror Zone :</b> <a href='https://t.me/TN57_LEECH_AND_MIRROR_ZONE'>Click Here</a>\n
 <b>Server :</b> <a href='https://heroku.com'>Heroku</a>\n
 <b>Library :</b> <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a>\n
 <b>Language :</b> <a href='https://www.python.org'>Python 3.9.4</a>\n
