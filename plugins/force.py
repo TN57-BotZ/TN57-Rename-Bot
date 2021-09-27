@@ -57,8 +57,8 @@ async def text(bot, update):
                     InlineKeyboardButton('🤓Fᴇᴇᴅʙᴀᴄᴋ🤓', url='https://t.me/BLuVDS')
                 ],
                 [
-                    InlineKeyboardButton('😼Sᴜᴘᴘᴏʀᴛ👾', url='https://t.me/TN57_BotzSupport'),
-                    InlineKeyboardButton('☣️Lᴇᴇᴄʜ & Mɪʀʀᴏʀ Zᴏɴᴇ☣️', url='https://t.me/TN57_LEECH_AND_MIRROR_ZONE')
+                    InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/TN57_BotzSupport'),
+                    InlineKeyboardButton('Lᴇᴇᴄʜ & Mɪʀʀᴏʀ Zᴏɴᴇ', url='https://t.me/TN57_LEECH_AND_MIRROR_ZONE')
                 ]
             ]
         ),
